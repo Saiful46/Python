@@ -1,0 +1,5 @@
+#!c:\users\anik\desktop\uvapro~1\projec~1\venv1\scripts\python.exe
+from cx_Freeze.setupwriter import main
+
+main()
+
